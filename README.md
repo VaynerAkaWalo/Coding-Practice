@@ -1,0 +1,2 @@
+## Coding Practice
+Repository contains solutions to various algorithmic problems designed for practicing problem-solving skills. The problems are sourced from popular platforms such as LeetCode, HackerRank, and the book "Cracking the Coding Interview" by Gayle Laakmann McDowell.
