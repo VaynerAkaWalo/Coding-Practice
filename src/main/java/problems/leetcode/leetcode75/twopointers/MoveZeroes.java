@@ -1,4 +1,4 @@
-package problems.leetcode.leetcode75.arraystring.twopointers;
+package problems.leetcode.leetcode75.twopointers;
 
 public class MoveZeroes {
 
